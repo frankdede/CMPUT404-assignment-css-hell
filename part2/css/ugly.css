@@ -10,6 +10,10 @@
 	padding-top: 50px;
 	background-color:blue;
 }
+.imgstyle{
+	padding-top: 100px;
+}
+
 li
 {
 	display:inline;
@@ -22,3 +26,10 @@ html, body{
     margin:0px;
     padding:0px;
 }
+
+.thumbnail{
+	width:150px;
+	height:210px;
+	margin:10px;
+}
+
