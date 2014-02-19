@@ -1,3 +1,11 @@
+.title{
+	top:30px;
+	position:absolute;
+	color:#FFFFFF;
+	font-size: 50pt;
+	text-align: center;
+}
+
 .navbar
 {
 	background: url('../asset/navbar.png');
