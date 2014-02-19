@@ -1,0 +1,68 @@
+/*
+   Copyright 2013-2014 Guanqi Huang,Yuwei Duan,and Abram Hindle
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+*/
+html{
+	size: 125%;
+    background: white;
+}
+
+p {
+    color: black;
+    margin-left: 50px;
+    margin-right: 75px;
+}
+h1, h2, h3, h4, h5, h6 {
+    letter-spacing: 1px;
+}
+img {
+    opacity: 0.4;
+    max-width:300px;
+}
+
+img:hover {
+    opacity: 1;
+}
+
+figure {
+    margin: 1.5em;  
+    float: right;
+    width: 304px;
+    height: auto;
+    border: 3px solid #3d3e4c;
+    background-color: #646464;
+    text-align: center;
+}
+
+figcaption {
+    word-wrap: break-word;
+    font-size: 80%;
+}
+
+pre {
+    text-align: center;
+    border-style:solid;
+    border-color:#8f9776;
+}
+
+.toc {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-decoration:none;
+}
+
+a:hover {
+    outline-style: outset;
+    outline-color: #000000;
+}
